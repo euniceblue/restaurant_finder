@@ -1,0 +1,12 @@
+# .env files should contain below
+# AZURE_OPENAI_API_KEY = <secured>
+# AZURE_OPENAI_END_POINT = <secured>
+streamlit
+openai
+numpy
+scikit-learn
+python-dotenv
+langchain
+pandas
+chardet
+tqdm
